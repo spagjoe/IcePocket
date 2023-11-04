@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf1f36f8f57e1404786e845f223ace5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smallEnemy: {fileID: 1475543117179842927, guid: c9d3fed26b0f646488d7ab2d8f649593, type: 3}
+  - largeEnemy: {fileID: 6464919633031898362, guid: a8f861c9810540340a2043ba2d43429c, type: 3}
+  - bombEnemy: {fileID: 3463918364596421918, guid: 150b62b58def70949a6dd6779a261cf6, type: 3}
+  - gameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
